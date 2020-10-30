@@ -1,0 +1,16 @@
+--------------------
+Date: 29:10:2020
+Time: 23:33
+Phone number: +51980309999
+Message: Hola desde python a whatsapp! :)
+--------------------
+Date: 29:10:2020
+Time: 23:35
+Phone number: +51980309999
+Message: Hola desde python a whatsapp! :)
+--------------------
+Date: 29:10:2020
+Time: 23:45
+Phone number: +51980309999
+Message: Hola Brian, este es un mensaje indicando que ya puedes utilizar tu tarjeta virtual Edenred.
+--------------------
